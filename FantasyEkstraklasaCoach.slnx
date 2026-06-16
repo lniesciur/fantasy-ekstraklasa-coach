@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="FantasyEkstraklasaCoach.Api/FantasyEkstraklasaCoach.Api.csproj" />
+  <Project Path="FantasyEkstraklasaCoach.Application.UnitTests/FantasyEkstraklasaCoach.Application.UnitTests.csproj" />
+  <Project Path="FantasyEkstraklasaCoach.Application/FantasyEkstraklasaCoach.Application.csproj" />
+  <Project Path="FantasyEkstraklasaCoach.Contracts/FantasyEkstraklasaCoach.Contracts.csproj" />
+  <Project Path="FantasyEkstraklasaCoach.Domain.UnitTests/FantasyEkstraklasaCoach.Domain.UnitTests.csproj" />
+  <Project Path="FantasyEkstraklasaCoach.Domain/FantasyEkstraklasaCoach.Domain.csproj" />
+  <Project Path="FantasyEkstraklasaCoach.Infrastructure/FantasyEkstraklasaCoach.Infrastructure.csproj" />
+  <Project Path="FantasyEkstraklasaCoach.IntegrationTests/FantasyEkstraklasaCoach.IntegrationTests.csproj" />
+  <Project Path="FantasyEkstraklasaCoach.Web/FantasyEkstraklasaCoach.Web.csproj" />
+</Solution>
