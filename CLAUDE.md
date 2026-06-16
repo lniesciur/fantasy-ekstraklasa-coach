@@ -5,9 +5,9 @@ Clean Architecture + DDD template — .NET 10, FastEndpoints, PostgreSQL (Supaba
 ## New project checklist
 
 - [ ] `FantasyEkstraklasaCoach` → project name (solution, namespaces, project files, folder names) — automated when using `dotnet new my-clean -n YourProjectName`
-- [ ] Ports in `FantasyEkstraklasaCoach.Api/Properties/launchSettings.json` — change `5200` / `7200` to unique values
-- [ ] Ports in `FantasyEkstraklasaCoach.Web/Properties/launchSettings.json` — change `5201` / `7201` to unique values
-- [ ] Update ports in `.claude/skills/run-apps/SKILL.md` and `.claude/skills/run-apps-mobile/SKILL.md` to match
+- [x] Ports in `FantasyEkstraklasaCoach.Api/Properties/launchSettings.json` — API: `5210` / `7210`
+- [x] Ports in `FantasyEkstraklasaCoach.Web/Properties/launchSettings.json` — Web: `5211` / `7211`
+- [x] Update ports in `.claude/skills/run-apps/SKILL.md` and `.claude/skills/run-apps-mobile/SKILL.md` to match
 - [ ] Fill in `appsettings.json` connection strings and Supabase config
 
 ## Commands
